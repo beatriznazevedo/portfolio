@@ -16,4 +16,4 @@
 <img src="" />
 </div>
 
-<p align="center"><strong>Link</strong> para acessar o <strong>site</strong>: https://beatriznazevedo.github.io/portfolio/</p>
+<p align="center"><strong>Link</strong> para acessar o <strong>site</strong>: https://beatriznazevedo.github.io/projetoportfolio/</p>
