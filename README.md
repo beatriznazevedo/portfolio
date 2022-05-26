@@ -1,6 +1,6 @@
 <p align="center">
   <strong>Projeto Portfólio</strong> <br> Portfolio criado no bootcamp TQI FullStack Developer em parceria dom a DIO.</p>
-  <p align="center">O projeto consiste em uma página web com <strong>informações do meu portfólio</strong>, com link de direcionamento ao meu <strong>GitHub</strong> e <strong>LinkedIn</strong>.
+  <p align="center">O projeto consiste em uma página web para desenvolver um portfólio. Possui link de direcionamento ao meu <strong>GitHub</strong> e <strong>LinkedIn</strong>.
   Para a criação desta página foi utilizado apenas <strong>CSS3</strong> e <strong>HTML5</strong>. Nesse projeto foi desenvolvido um <strong>menu hamburguer</strong> e um <strong>morphing menu</strong>
   com <strong>CSS Transitions</strong>.</p>
 
