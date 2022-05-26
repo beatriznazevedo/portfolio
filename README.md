@@ -13,7 +13,7 @@
   ##
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/94022421/170564233-d39f96f7-dba0-4e33-807e-f807d77777a4.gif" />
+<img src="https://user-images.githubusercontent.com/94022421/170573898-772c081d-1862-4592-8a7a-e32dbae297b8.gif" />
 </div>
 
 <p align="center"><strong>Link</strong> para acessar o <strong>site</strong>: https://beatriznazevedo.github.io/portfolio/</p>
