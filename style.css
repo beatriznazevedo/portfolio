@@ -287,7 +287,7 @@ a:hover {
 }
 
 .card:hover > .card-wrapper p {
-    font-sixe: 14px;
+    font-size: 14px;
     opacity: 1;
     visibility: visible;
 }
